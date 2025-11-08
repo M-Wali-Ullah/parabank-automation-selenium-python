@@ -53,11 +53,8 @@ parabank-automation/
 **Plz wait for GIF file to load**
 
 ### User Registration Test
-<iframe width="560" height="315" src="https://youtu.be/ZxYMBCN5dzY" 
-frameborder="0" allowfullscreen></iframe>
-
-### Fund Transfer Test  
-![Fund Transfer Test](reports/screenshots/transfer_demo.gif)
+![Demo GIF](content/customer_registration.gif)
+![Demo Report](content/customer-registration-allure-report.png)
 
 ## Features
 
