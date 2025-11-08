@@ -49,6 +49,16 @@ parabank-automation/
 └── README.md              # Project documentation
 ```
 
+## Test Demonstrations
+**Plz wait for GIF file to load**
+
+### User Registration Test
+<iframe width="560" height="315" src="https://www.loom.com/share/45478dfab01c426281113c6b0cb3b1af" 
+frameborder="0" allowfullscreen></iframe>
+
+### Fund Transfer Test  
+![Fund Transfer Test](reports/screenshots/transfer_demo.gif)
+
 ## Features
 
 1. **User Registration & Login**
@@ -70,14 +80,6 @@ parabank-automation/
    - New account creation
    - Account overview
    - Transaction search
-
-## Test Demonstrations
-
-### User Registration Test
-![Registration Test](reports/screenshots/registration_demo.gif)
-
-### Fund Transfer Test  
-![Fund Transfer Test](reports/screenshots/transfer_demo.gif)
 
 ## Additional Information
 
