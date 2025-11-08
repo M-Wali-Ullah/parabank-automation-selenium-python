@@ -53,7 +53,7 @@ parabank-automation/
 **Plz wait for GIF file to load**
 
 ### User Registration Test
-<iframe width="560" height="315" src="https://www.loom.com/share/45478dfab01c426281113c6b0cb3b1af" 
+<iframe width="560" height="315" src="https://youtu.be/ZxYMBCN5dzY" 
 frameborder="0" allowfullscreen></iframe>
 
 ### Fund Transfer Test  
