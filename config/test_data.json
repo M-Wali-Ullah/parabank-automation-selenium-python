@@ -1,0 +1,27 @@
+ {
+    "valid_user": {
+        "username": "john.doe",
+        "password": "Demo123!",
+        "first_name": "John",
+        "last_name": "Doe",
+        "address": "123 Main Street",
+        "city": "New York",
+        "state": "NY",
+        "zip_code": "10001",
+        "phone": "212-555-0100",
+        "ssn": "123-45-6789"
+    },
+    "bill_payment": {
+        "payee_name": "Electric Company",
+        "address": "456 Power St",
+        "city": "Boston",
+        "state": "MA",
+        "zip_code": "02101",
+        "phone": "617-555-0200",
+        "account_number": "987654321",
+        "amount": "150.00"
+    },
+    "transfer": {
+        "amount": "100.00"
+    }
+}

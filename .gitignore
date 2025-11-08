@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Test outputs
+reports/
+logs/
+*.log
+.coverage
+.pytest_cache/
+htmlcov/
+
+# Virtual Environment
+venv/
+.env/
+.venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.vs/
+
+# Project specific
+config/temp_credentials.json
+screenshots/
+allure-results/
+allure-report/

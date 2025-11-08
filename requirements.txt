@@ -1,0 +1,10 @@
+selenium==4.15.2
+pytest==7.4.3
+pytest-html==4.1.1
+pytest-xdist==3.5.0
+allure-pytest==2.13.2
+webdriver-manager==4.0.1
+python-dotenv==1.0.0
+faker==20.1.0
+loguru==0.7.2
+jsonschema==4.20.0
